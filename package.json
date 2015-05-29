@@ -1,0 +1,24 @@
+{
+  "name": "pinguino",
+  "version": "0.0.0",
+  "description": "Send SMS when pinger reawakens",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/samvit/pinguino"
+  },
+  "keywords": [
+    "nodejs",
+    "twilio",
+    "pinger"
+  ],
+  "author": "Samvit Ramadurgam",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/samvit/pinguino/issues"
+  },
+  "homepage": "https://github.com/samvit/pinguino",
+  "dependencies": {
+    "twilio": "^2.2.1"
+  }
+}
